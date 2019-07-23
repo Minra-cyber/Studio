@@ -4,7 +4,7 @@
 ## Description
 This landing page gives information and also allows the reader to contact them.
 ## Setup/Installation Requirement
-Go to Goggle and paste this Url
+ Go to Goggle and paste this Url https://minra-cyber.github.io/Studio/
 ## Known Bugs
 No Issues
 ## Technologies Used
