@@ -1,12 +1,14 @@
 body{
-  background-color:black;
+  background-color:white;
 }
 .title{
   position: absolute;
   top:250px;
   left:580px;
+  text-align: center;
 }
-.logo{
+.logo
+[]
 
   position:absolute;
   top:150px;
