@@ -1,5 +1,5 @@
 # Studio Landing Page
-#### It is infomational. 2019
+#### It is an infomational page. 2019
 #### By Samira Hashi
 ## Description
 This landing page gives information and also allows the reader to contact them.
